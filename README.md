@@ -4,3 +4,4 @@ Microcontroladores
 Universidad de Sonora
 Profesor: Dr. Victor Hugo Benitez Baltazar
 Ejemplo básico para realizar código con mis alumnos
+Codigo 1
